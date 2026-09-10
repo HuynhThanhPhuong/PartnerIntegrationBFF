@@ -1,0 +1,6 @@
+@PartnerVerificationAPI_HostAddress = http://localhost:5131
+
+GET {{PartnerVerificationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

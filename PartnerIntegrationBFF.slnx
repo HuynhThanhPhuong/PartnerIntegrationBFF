@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.override.yml" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="PartnerIntegrationBFF.Tests/PartnerIntegrationBFF.Tests.csproj" Id="072eb953-398f-4b2e-9374-e40606f10073" />
+  </Folder>
+  <Project Path="API/API.csproj" />
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="PartnerVerificationAPI/PartnerVerificationAPI.csproj" />
+</Solution>
